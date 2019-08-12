@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                build "webapp-build"
+                build "jenkins-build"
             }
         }
         stage('Test') {
