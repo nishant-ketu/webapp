@@ -8,5 +8,5 @@ mvn3 clean package
 
 #Deploy instruction
 
-Deploy ```target/WebApp.war``` on  Apache Tomcat
+Deploy ```target/WebApp.war``` on Wildfly
  
