@@ -5,6 +5,10 @@ This is a sample Web Application to use during Continuous Integration demos.
 ```
 mvn3 clean package
 ```
+#Test Instruction
+```
+mvn test
+```
 
 #Deploy instruction
 
