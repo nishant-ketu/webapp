@@ -32,7 +32,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Project name</a>
+            <a class="navbar-brand" href="#">Slytherein</a>
         </div>
         <div class="navbar-collapse collapse">
             <form class="navbar-form navbar-right" role="form">
@@ -62,7 +62,7 @@
     <div class="row">
         <div class="col-md-4">
             <h2>This is how i look like.</h2>
-            <p><img src="/home/nishantketu/Pictures/1.jpg"></p>
+            <p><img src="1.jpg"></p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
