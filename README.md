@@ -1,4 +1,4 @@
-This is a sample Web Application to use during Continuous Integration demo.
+This is a sample Web Application to demonstrate Continuous Integration.
 
 #Build Instruction
 
