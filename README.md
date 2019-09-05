@@ -1,10 +1,10 @@
 This is a sample Web Application to demonstrate Continuous Integration.
 
-#Build Instruction
+#Build command
 ```
 mvn clean package
 ```
-#Test Instruction
+#Test command
 ```
 mvn test
 ```
