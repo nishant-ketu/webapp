@@ -10,4 +10,4 @@ mvn test
 ```
 #Deploy instruction
 Deploy ```target/WebApp.war``` on Wildfly.
-
+,.......................................
